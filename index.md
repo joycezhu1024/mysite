@@ -2,19 +2,19 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![chouchou](chouchou.jpeg)
 
-# Appeach
+# ChouChou
 
-Korean cartoon
+who doesn't brush teeth
 
 - - -
 
 ### about
 
-korean cartoon 
+ChouChou
 
 ### Links
 
- * [appeach](http://blog.infographs.tw)
+ * [ChouChou](https://ja.wikipedia.org/wiki/%E8%8D%89%E6%B3%A5%E9%A6%AC)
 - - -
