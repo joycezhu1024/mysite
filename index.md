@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![chouchou](/user/desktop/chouchou.jpeg)
+![chouchou](https://www.pinterest.jp/pin/422986589987513014/)
 
 # ChouChou
 
